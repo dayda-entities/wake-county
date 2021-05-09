@@ -1,0 +1,19 @@
+---
+title: Adopted Expense Budget
+created: '2020-11-12T13:57:41.018832'
+modified: '2020-11-12T13:57:41.018839'
+state: active
+type: dataset
+tags:
+  - Budget
+  - Expenses
+  - Government
+groups:
+  - Local Government
+csv_url: >-
+  https://data-wake.opendata.arcgis.com/datasets/cf76b49c6bb743f3a413b5bdb5868c9e_0.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D
+json_url: ''
+layout: post
+
+---
+<span style='color: rgb(92, 92, 92); font-family: sans-serif; background-color: rgb(255, 255, 255);'>All adopted expense budgets from FY2012 through the latest, most current FY. Started in FY2017, this was implemented to conserve space and to ensure that the data is presented in a consistent manner.</span>
