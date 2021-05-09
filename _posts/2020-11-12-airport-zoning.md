@@ -1,0 +1,23 @@
+---
+title: Airport Zoning
+created: '2020-11-12T13:59:10.914947'
+modified: '2020-11-12T13:59:10.914954'
+state: active
+type: dataset
+tags:
+  - Airport
+  - Nc
+  - North Carolina
+  - Planning
+  - Wake
+  - Wake County
+  - Zoning
+groups:
+  - Local Government
+csv_url: >-
+  https://data-wake.opendata.arcgis.com/datasets/2d33640965b84cfe99129450745b9573_28.csv?outSR=%7B%22latestWkid%22%3A2264%2C%22wkid%22%3A102719%7D
+json_url: ''
+layout: post
+
+---
+Airport Zoning
