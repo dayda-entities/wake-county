@@ -10,8 +10,7 @@ source_contact_type: general
 source_phone: +1 555-555-5555
 source_email: info@example.com
 source_catalog: data.gov
-profile_pic: >-
-  https://i.pinimg.com/236x/33/f8/83/33f8834e474f34e22b0929e95deafaa8--genealogy-seals.jpg
+profile_pic: 'https://directory.dayda.org/assets/img/entities/wake-county.png'
 favicon: /assets/img/favicon.png
 url: 'http://wake-county.dayda.org'
 encoding: utf-8
