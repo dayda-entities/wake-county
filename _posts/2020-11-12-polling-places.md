@@ -1,22 +1,21 @@
 ---
 title: Polling Places
-created: '2020-11-12T13:59:03.344717'
-modified: '2020-11-12T13:59:03.344724'
+created: '2020-11-12T13:59:14.018249'
+modified: '2020-11-12T13:59:14.018259'
 state: active
 type: dataset
 tags:
-  - Electoral
-  - Nc
-  - North Carolina
-  - Polling Places
-  - Wake
-  - Wake County
+  - Council Districts
+  - Election
+  - Election Polling Places
+  - Precincts
+  - Voting
 groups:
   - Local Government
 csv_url: >-
-  https://data-wake.opendata.arcgis.com/datasets/7923b5aaa9e44c1ca207cd862952b448_0.csv?outSR=%7B%22latestWkid%22%3A2264%2C%22wkid%22%3A102719%7D
+  https://data-wake.opendata.arcgis.com/datasets/73926e4053294a87b03deb67a2c042c1_1.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D
 json_url: ''
 layout: post
 
 ---
-Polling Places locations in Wake County, NC
+This service contains infromation for polling places, voting precincts and Town of Cary Council Members.
